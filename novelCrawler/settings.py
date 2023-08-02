@@ -15,6 +15,7 @@ NEWSPIDER_MODULE = "novelCrawler.spiders"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "novelCrawler (+http://www.yourdomain.com)"
+USER_AGENT = "Googlebot" 
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
