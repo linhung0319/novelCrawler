@@ -1,0 +1,62 @@
+.env
+.vscode
+*.pyc
+__pycache__
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#InstallShield
+[Ss]ingle[Ii]mage/
+[Dd][Vv][Dd]-5/
+[Ii]nterm/
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+/cpp/queue/.vs/queue/v17
+/cpp/queue/.vs/queue/FileContentIndex
+/cpp/stl_queue/.vs/stl_queue/v17
+/cpp/stl_queue/.vs/stl_queue/FileContentIndex
+/cpp/member_function/.vs/member_function/v17
+/cpp/member_function/.vs/member_function/FileContentIndex
